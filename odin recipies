@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+     <meta charset="UTF-8">
+     <title>"Recipies"</title>
+    </head>
+
+    <body>
+        <h1>A Collection of Recipies</h1>
+        <img src="https://us.123rf.com/450wm/kakigori/kakigori2106/kakigori210600100/171020135-cute-little-black-kid-chef-cooking-holding-food-tray.jpg?ver=6">
+        
+   <h2>Recipies</h2>
+   <ul>
+   <li><a href="http://127.0.0.1:5500/recipes/MozzarellaPuffs.html">Mozzarella Puffs</a></li>
+   <li><a href="http://127.0.0.1:5500/recipes/ImpossibleCake.html">Impossible Cake</a></li>
+   </ul>
+   
+    </body>
